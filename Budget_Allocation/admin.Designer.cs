@@ -136,7 +136,7 @@
             this.adminBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.adminBtn.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.adminBtn.ForeColor = System.Drawing.Color.White;
-            this.adminBtn.Location = new System.Drawing.Point(16, 68);
+            this.adminBtn.Location = new System.Drawing.Point(16, 65);
             this.adminBtn.Name = "adminBtn";
             this.adminBtn.Size = new System.Drawing.Size(191, 41);
             this.adminBtn.TabIndex = 19;
