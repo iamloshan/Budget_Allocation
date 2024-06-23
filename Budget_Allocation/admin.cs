@@ -140,9 +140,9 @@ namespace Budget_Allocation
             Console.WriteLine("Selected Clubs: ");
             foreach (int i in items)
             {
-                string x = "Club_NO " + clubs[i] + " with Total Events " + events[i] + " and Allocatod Budget " + weight[i];
+                string x = "Club Name " + clubs[i] + " With Total Events " + events[i] + " and Allocatod Budget " + weight[i];
                 output =output + "\n " + x;
-                Console.WriteLine("Club_NO " + clubs[i] + " with Total Events " + events[i] + " and Allocatod Budget " + weight[i]);               
+                Console.WriteLine("Club Name " + clubs[i] + " with Total Events " + events[i] + " and Allocatod Budget " + weight[i]);               
             }
 
             OutputLabel.Text= output;
